@@ -17,16 +17,16 @@ Dependencies
 
 - Microsoft Excel
 - Excel Functions:
-- IF()
-- AVERAGE()
-- PROPER()
-- TRIM()
-- CLEAN()
--XLOOKUP/VLOOKUP
-- Conditional Formatting
-- Data Validation
-- Sorting and Filtering
-- Excel Tables – Pivot
+   IF()
+   AVERAGE()
+   PROPER()
+   TRIM()
+   CLEAN()
+   XLOOKUP/VLOOKUP
+   Conditional Formatting
+   Data Validation
+   Sorting and Filtering
+   Excel Tables – Pivot
 
 
 ---
@@ -67,8 +67,8 @@ o	Dashboard: Interact with the final, visual summary of the insights.
 
 ## Technologies Used
 •	Microsoft Excel: The sole platform for all operations.
-o	Core Functions: TRIM(), PROPER(), IF(), ISBLANK(), VLOOKUP(), XLOOKUP(), YEAR(), TEXT().
-o	Tools: PivotTables, Pivot Charts, Conditional Formatting, Data Validation, Excel Tables.
+• Core Functions: TRIM(), PROPER(), IF(), ISBLANK(), VLOOKUP(), XLOOKUP(), YEAR(), TEXT().
+•	Tools: PivotTables, Pivot Charts, Conditional Formatting, Data Validation, Excel Tables.
 ## Interactive Dashboarding
 -	A central "Dashboard" sheet was created (as seen in the file) that visualizes key findings, likely including:
 -	Total Revenue & Profit KPIs.
